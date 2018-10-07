@@ -1,0 +1,25 @@
+{
+  "name": "flat-node-dependencies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burnhardx/flat-node-dependencies.git"
+  },
+  "author": "Bernhard Vollmer <burn.hard.x@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/burnhardx/flat-node-dependencies/issues"
+  },
+  "homepage": "https://github.com/burnhardx/flat-node-dependencies#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "lodash": "^4.17.11",
+    "mocha": "^5.2.0",
+    "node-uuid": "^1.4.8"
+  }
+}
