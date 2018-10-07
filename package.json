@@ -1,11 +1,8 @@
 {
   "name": "flat-node-dependencies",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
-  "bin":{
-    "hello":"textExec.js"
-  },
   "scripts": {
     "test": "mocha"
   },
@@ -19,7 +16,7 @@
     "url": "https://github.com/burnhardx/flat-node-dependencies/issues"
   },
   "homepage": "https://github.com/burnhardx/flat-node-dependencies#readme",
-  "dependencies": {
+  "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^5.2.0"
   }
